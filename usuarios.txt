@@ -1,0 +1,2 @@
+Administrador:General:admin@cafeteria.com:admin:120d1e1d5d5c066012
+Emmanuel:Luna:plbl12341@gmail.com:LunaEMG:20001e1d0c5d0c630b

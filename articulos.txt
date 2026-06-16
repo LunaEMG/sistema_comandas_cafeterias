@@ -1,0 +1,5 @@
+1:Cafes de Extraccion Fria:45.50:93
+2:Capuccino de Grano Organico:55.00:70
+3:Espresso de Tueste Oscuro:35.00:115
+4:Panini de Tres Quesos:75.00:40
+5:Rebanada de Pastel Red Velvet:60.00:25
